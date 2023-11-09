@@ -1,0 +1,23 @@
+{
+  "identifier" : "20231106_main_3",
+  "calibrated" : true,
+  "startTimestamp" : {
+    "value" : 57669803829568,
+    "timescale" : 1000000000
+  },
+  "deviceModel" : "iPhone14,5",
+  "endTimestamp" : {
+    "value" : 57695371842101,
+    "timescale" : 1000000000
+  },
+  "videoTargetFrameRate" : 60,
+  "startTimecode" : "16:01:09:48.229",
+  "slate" : "main",
+  "endTimecode" : "16:01:35:22.310",
+  "appVersion" : "v1.3.1 (build 88)",
+  "frames" : 1535,
+  "take" : 3,
+  "date" : "2023-11-06T09:00:57Z",
+  "version" : 1,
+  "subject" : "iPhonediStefano"
+}

@@ -1,0 +1,10 @@
+{
+  "FrameRate" : 60,
+  "JpegCompressionQuality" : 0.9,
+  "Quality" : "high",
+  "Dimensions" : {
+    "height" : 720,
+    "width" : 1280
+  },
+  "Orientation" : 4
+}

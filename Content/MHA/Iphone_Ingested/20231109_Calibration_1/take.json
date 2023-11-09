@@ -1,0 +1,23 @@
+{
+  "date" : "2023-11-09T08:23:24Z",
+  "videoTargetFrameRate" : 60,
+  "slate" : "Calibration",
+  "appVersion" : "v1.3.1 (build 88)",
+  "endTimecode" : "15:53:50:26.582",
+  "frames" : 1866,
+  "endTimestamp" : {
+    "value" : 143630443048929,
+    "timescale" : 1000000000
+  },
+  "startTimecode" : "15:53:19:21.484",
+  "subject" : "iPhonediStefano",
+  "calibrated" : true,
+  "identifier" : "20231109_Calibration_1",
+  "take" : 1,
+  "version" : 1,
+  "startTimestamp" : {
+    "timescale" : 1000000000,
+    "value" : 143599358069277
+  },
+  "deviceModel" : "iPhone14,5"
+}

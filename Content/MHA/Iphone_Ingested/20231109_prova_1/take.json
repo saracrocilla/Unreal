@@ -1,0 +1,23 @@
+{
+  "subject" : "iPhonediStefano",
+  "take" : 1,
+  "frames" : 812,
+  "endTimecode" : "16:10:54:05.856",
+  "endTimestamp" : {
+    "value" : 144654097603337,
+    "timescale" : 1000000000
+  },
+  "identifier" : "20231109_prova_1",
+  "videoTargetFrameRate" : 60,
+  "date" : "2023-11-09T09:37:22Z",
+  "calibrated" : true,
+  "deviceModel" : "iPhone14,5",
+  "startTimestamp" : {
+    "value" : 144640580230859,
+    "timescale" : 1000000000
+  },
+  "slate" : "prova",
+  "appVersion" : "v1.3.1 (build 88)",
+  "version" : 1,
+  "startTimecode" : "16:10:40:34.813"
+}
